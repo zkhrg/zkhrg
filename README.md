@@ -1,3 +1,1 @@
-Hey!
-
-I'm someone who like GO (golang)
+Ya tak ustal nichego ne delat'
