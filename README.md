@@ -1,1 +1,1 @@
-Ya tak ustal nichego ne delat'
+Looking for GOlang jobs.
