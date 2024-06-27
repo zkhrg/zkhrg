@@ -1,2 +1,9 @@
-src elc sls <br>
-s21: diamondp
+```go
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("HELLO My name is zkhrg")
+}
+```
